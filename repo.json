@@ -1,8 +1,6 @@
 {
-    "name": "Cloudstream providers repository",
-    "description": "Cloudstream extension Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
-    ]
+  "name": "Arabic CloudStream Repo",
+  "description": "Arabic providers (FaselHD and more)",
+  "manifestVersion": 1,
+  "plugins": []
 }
